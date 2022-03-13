@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "primeiro relogio",
+    "price": "12.33"
+  },
+  {
+    "id": 2,
+    "title": "outro relogio",
+    "price": "22.44"
+  },
+  {
+    "id": 3,
+    "title": "mais um relogio",
+    "price": "20"
+  }
+]
