@@ -3,6 +3,7 @@
  */
 
 import message from './message'
+import product from './product'
 import user from './user'
 
 /*
@@ -13,4 +14,5 @@ import user from './user'
 export default {
   ...user,
   ...message,
+  ...product,
 }
